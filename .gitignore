@@ -1,0 +1,6 @@
+.idea/
+/_logs_/*
+/.idea/*
+*.pyc
+_logs_/
+
